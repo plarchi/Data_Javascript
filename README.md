@@ -1,6 +1,6 @@
-## Case study 3: Data visualisation
+## Data visualisation by Javascript
 
-### Tasks
+### Assignment of Data Visulisation
 
 Download the data vis project template from the bottom of this page
 and look over the code, starting with `stekch.js` to get an overview
