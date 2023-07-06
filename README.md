@@ -1,20 +1,12 @@
 ## Data visualisation by Javascript
 
-### Assignment of Data Visulisation
+### Assignment of Data Visulisation (UoL Intro of Programming)
 
-Download the data vis project template from the bottom of this page
-and look over the code, starting with `stekch.js` to get an overview
-of how the programme works. Try running the code.
+This is a Data Visualization by Javascript P5 (Bracket), the Data Set is downloaded from the UK Government.
 
-All visualisations are stored in the `gallery` global variable. This
-variable can be used for debugging in the console to access properties
-and methods defined within each visualisation.
+#### Drink Consume Scatter
 
-Lines you need to complete in this case study are marked **???**.
-
-#### Tech diversity: Gender [2 marks]
-
-![tech-diversity-gender](https://www.doc.gold.ac.uk/~jfort010/ip/case-studies/data-vis/figures/tech-diversity-gender.png)
+![Drink-Consume-Scatter]([https://www.doc.gold.ac.uk/~jfort010/ip/case-studies/data-vis/figures/tech-diversity-gender.png](https://connecthkuhk-my.sharepoint.com/:i:/g/personal/plarchi_connect_hku_hk/EVWxVRx6bfFKoJj6DXcS5-gBw7tcj1C8J1ZAHydbqfd1PA?e=ziIqeO))
 
 Complete the visualisation defined in `tech-diversity-gender.js` to
 create a stacked bar chart by adding the proportion of men employed at
