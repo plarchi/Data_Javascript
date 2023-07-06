@@ -6,7 +6,7 @@ This is a Data Visualization by Javascript P5 (Bracket), the Data Set is downloa
 
 #### Drink Consume Scatter
 
-![Drink-Consume-Scatter]([https://www.doc.gold.ac.uk/~jfort010/ip/case-studies/data-vis/figures/tech-diversity-gender.png](https://connecthkuhk-my.sharepoint.com/:i:/g/personal/plarchi_connect_hku_hk/EVWxVRx6bfFKoJj6DXcS5-gBw7tcj1C8J1ZAHydbqfd1PA?e=ziIqeO))
+![Drink-Consume-Scatter](https://connecthkuhk-my.sharepoint.com/:i:/g/personal/plarchi_connect_hku_hk/Ea6IPoXscExBkFfWO7-RdesBtletXZnqEkO33kBaai0mLQ?e=zBpBjw)
 
 Complete the visualisation defined in `tech-diversity-gender.js` to
 create a stacked bar chart by adding the proportion of men employed at
