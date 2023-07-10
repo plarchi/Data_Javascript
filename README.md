@@ -9,15 +9,11 @@ This is a Data Visualization assignment developed by Javascript P5 (Bracket), th
 
 The DataSet contained different kind of drink consumption from 2001 to 2019, I tried to represent it in two different format - Scatter and Line Graph.
 
-#### Drink Scatter Format
+#### Drink Scatter Visulaization
 
 1. Look up the original code in [drink-scatter.js](https://github.com/plarchi/Data_Javascript/blob/main/drink-scatter.js).
 
-2. Look at the raw data: `./data/tech-diversity/gender-2018.csv`. Use
-   a spreadsheet program or text editor, and make sure you understand
-   the data format (this first line is special). This data will be
-   automatically loaded and stored in the `data` property (see the
-   `preload()` method).
+2. The visual representation is under `this.draw` function. With background colour and fixed ellipse size in different colour, the graph shows the different kind of product consume from 2001 to 2019.
 
 
 #### Pay gap 1997–2017 [2 marks]
