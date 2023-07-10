@@ -33,7 +33,7 @@ The code of the Bar Chart [energy-use-all.js](https://github.com/plarchi/Data_Ja
 ![Energyusebarchart](https://user-images.githubusercontent.com/97387572/252401955-beb17d05-4b86-4dbd-8672-6126bd5da7c0.JPG)
 
 #### UK Energy Use Summary in Bubble Graph
-
+The code of the Bubble Chart [energy-use-summary.js](https://github.com/plarchi/Data_Javascript/blob/main/enery-use-all.js)
 ![Energyusebubble](https://user-images.githubusercontent.com/97387572/252402043-f2392386-01ae-4915-9b37-54cf907f1327.JPG)
 
 You can view and change the color of the ellipse by clicking the ellipse on the graph:
