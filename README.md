@@ -2,7 +2,7 @@
 
 ### Assignment of Data Visulisation (UoL Intro of Programming)
 
-This is a Data Visualization by Javascript P5 (Bracket), the Data Set is downloaded from the UK Government.
+This is a Data Visualization assignment developed by Javascript P5 (Bracket), the Data Set is downloaded from the UK Government.
 
 #### Drink Consume Scatter
 ![DrinkConsumeScatter](https://github.com/plarchi/Data_Javascript/assets/97387572/3efb80db-fb1a-4efa-8f9f-881e9e0928e4)
