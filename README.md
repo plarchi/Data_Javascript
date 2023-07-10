@@ -7,11 +7,11 @@ This is a Data Visualization assignment developed by Javascript P5 (Bracket), th
 #### Drink Consume Data in CSV Format
 ![DrinkConsumeCSV](https://user-images.githubusercontent.com/97387572/252401034-39b93ace-40a7-410b-8d5d-73ee7cc7ceb1.jpg)
 
-Complete the visualisation defined in `tech-diversity-gender.js` to
-create a stacked bar chart by adding the proportion of men employed at
-each company.
+The DataSet contained different kind of drink consumption from 2001 to 2019, I tried to represent it in two different format - Scatter and Line Graph.
 
-1. Look up the documentation for [Table](https://p5js.org/reference/#/p5.Table).
+#### Drink Scatter Format
+
+1. Look up the original code in [drink-scatter.js](https://github.com/plarchi/Data_Javascript/blob/main/drink-scatter.js).
 
 2. Look at the raw data: `./data/tech-diversity/gender-2018.csv`. Use
    a spreadsheet program or text editor, and make sure you understand
@@ -19,20 +19,6 @@ each company.
    automatically loaded and stored in the `data` property (see the
    `preload()` method).
 
-3. In the `for` loop in the `draw()` method extract the relevant data
-   from each table row and store it in the `company` object.
-   - Hint: Look up the `getString()` and `getNum()` table methods, and
-     use the appropriate method to ensure the data is parsed
-     correctly.
-   - Check that bars representing the proportion of female employees
-     is correctly drawn on the plot.
-
-4. Look at how the rectangle representing the proportion of female
-   employees is defined. Draw a rectangle representing the male
-   proportion using the parameters and methods defined in this
-   object.
-   - The ratio of female:male staff at Indiegogo is 50:50. Make sure
-     that this is correctly visualised on the plot.
 
 #### Pay gap 1997–2017 [2 marks]
 
