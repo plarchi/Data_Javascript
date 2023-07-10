@@ -4,8 +4,8 @@
 
 This is a Data Visualization assignment developed by Javascript P5 (Bracket), the Data Set is downloaded from the UK Government. It aimed to develop a web dashboard by Javascript with an existing temple, the bottom four selection is created by myself.
 
-#### Drink Consume Scatter
-[![DrinkConsumeScatter](https://github.com/plarchi/Data_Javascript/assets/97387572/3efb80db-fb1a-4efa-8f9f-881e9e0928e4)](https://github.com/plarchi/Data_Javascript/issues/2#issue-1797089538)
+#### Drink Consume Data in CSV Format
+![DrinkConsumeCSV](https://user-images.githubusercontent.com/97387572/252401034-39b93ace-40a7-410b-8d5d-73ee7cc7ceb1.jpg)
 
 Complete the visualisation defined in `tech-diversity-gender.js` to
 create a stacked bar chart by adding the proportion of men employed at
