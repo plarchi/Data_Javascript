@@ -13,30 +13,13 @@ The DataSet contained different kind of drink consumption from 2001 to 2019, I t
 
 1. Look up the original code in [drink-scatter.js](https://github.com/plarchi/Data_Javascript/blob/main/drink-scatter.js).
 
-2. The visual representation is under `this.draw` function. With background colour and fixed ellipse size in different colour, the graph shows the different kind of product consume from 2001 to 2019.
+2. The visual representation is under `this.draw` function. With background colour and fixed ellipse size in different colour, the graph shows the different kind of product consume from 2001 to 2019 with ML units.
+![Drinkscatter](https://user-images.githubusercontent.com/97387572/252401602-5fac5ecf-6a52-450a-8f60-2d86e94cc5b5.JPG)
 
+#### Drink Consume
 
-#### Pay gap 1997–2017 [2 marks]
-
-![paygap1997-2017](https://www.doc.gold.ac.uk/~jfort010/ip/case-studies/data-vis/figures/pay-gap-1997-2017.png)
-
-Complete the visualisation defined in `pay-gap-1997-2017.js` to create
-a line graph representing the pay gap between female and male
-employees over time.
-
-1. Look at the raw data:
-   `./data/pay-gap/all-employees-hourly-pay-by-gender-1997-2017.csv`.
-
-2. In the `for` loop in the `draw()` method extract the relevant data
-   from each table row and store it in the `current` object.
-
-3. Complete the `mapPayGapToHeight()` method. Look at how `mapYearToWidth()`
-   works.
-   - Check that the y-axis tick labels are drawn correctly.
-
-4. Complete the `line()` function in the `draw()` method to plot the
-   pay gap over time. You will need to use both `mapYearToWidth()` and
-   `mapPayGapToHeight()` methods.
+By using the same dataset from the Drink Consume, another Line Graph Format is created. The original code in [drink-consume.js](https://github.com/plarchi/Data_Javascript/blob/main/drink-consume.js)
+![Drinkconsume](https://user-images.githubusercontent.com/97387572/252401185-ec9ad84c-e79c-4139-b9e0-928c2d8a57ac.JPG)
 
 #### Climate change [2 marks]
 
