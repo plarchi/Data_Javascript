@@ -5,7 +5,7 @@
 This is a Data Visualization assignment developed by Javascript P5 (Bracket), the Data Set is downloaded from the UK Government. It aimed to develop a web dashboard by Javascript with an existing temple, the bottom four selection is created by myself.
 
 #### Drink Consume Data in CSV Format
-![DAB](https://github.com/plarchi/Data_Javascript/assets/97387572/7cd8fed9-3fe5-452d-bfcf-d984ad9e6b85)
+![Drink_Consume_csv](https://user-images.githubusercontent.com/97387572/252401811-0d0f7c9f-291f-4bc5-a391-f85ae1f4d3f9.jpg)
 
 The DataSet contained different kind of drink consumption from 2001 to 2019, I tried to represent it in two different format - Scatter and Line Graph.
 
